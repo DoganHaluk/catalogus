@@ -1,4 +1,4 @@
-package be.vdab.catalogus.controllers;
+package be.vdab.catalogus.restcontrollers;
 
 import be.vdab.catalogus.domain.Artikel;
 import be.vdab.catalogus.services.ArtikelService;
